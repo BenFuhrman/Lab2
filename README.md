@@ -2,7 +2,9 @@
 Lab 2 for Benjamin Fuhrman (bdf7kt)
 
 Activity 1: https://github.com/BenFuhrman/hello-world
+
 Activity 2: Made this repo and file
+
 Activity 3:
 
     A link to your fork: https://github.com/BenFuhrman/Lab2Fork-101.git
